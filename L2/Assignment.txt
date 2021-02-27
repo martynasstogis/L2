@@ -1,0 +1,6 @@
+Kauno ir Klaipėdos darbo biržose kaupiami duomenys apie bedarbius: vardas ir pavardė, profesija, darbo stažas, pageidaujamas darbo laikas per dieną valandomis, pageidaujamas darbo laikas per mėnesį valandomis, pageidaujamas atlyginimas. Faile pirmoje eilutėje yra biržos pavadinimas.
+• Darbdavys renkasi darbuotojus, kurių darbo stažas yra ne trumpesnis kaip m metų ir kurie sutinka dirbti už atlyginimą, ne didesnį kaip a Lt. Raskite, kurioje darbo biržoje yra daugiau jam tinkamų darbuotojų? 
+• Suformuokite iš abiejų darbo biržų darbdavio poreikius atitinkančių būsimų darbuotojų sąrašą. 
+• Surikiuokite rezultatų sąrašą pagal pagal darbo stažą ir profesijos pavadinimą abėcėliškai. 
+• Pašalinkite iš rezultatų sąrašo darbuotojus, kurie pageidauja didesnio atlyginimo, nei gali mokėti darbdavys. Tai nurodoma klaviatūra.
+• Papildykite surikiuotą rezultatų sąrašą naujais bedarbiais, kurie tenkina darbdavio reikalavimus.

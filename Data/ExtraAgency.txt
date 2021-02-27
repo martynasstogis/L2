@@ -1,0 +1,6 @@
+Panevėžio darbo birža
+Rimantė Sirtaitė; Lituanistė; 18; 10; 235; 950;
+Bronius Barokas; Meninikas; 20; 8; 165; 2500;
+Simonas Lėkys; Pilotas; 11; 8; 160; 1100;
+Norbertas Alys; Mechanikas; 26; 10; 200; 950;
+Vincentas Ropė; Ūkininkas; 18; 12; 300; 1090;

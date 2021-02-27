@@ -1,0 +1,6 @@
+Kauno darbo birža
+Alfonsas Kapinskas; Suvirintojas; 21; 9; 180; 1200;
+Darius Mėsys; Mėsininkas; 10; 5; 140; 400;
+Benas Rudokas; Duobkasys; 15; 6; 72; 420;
+Arkliomantas Varnas; Elektrikas; 15; 8; 160; 1100;
+Vytautas Gairys; Valtininkas; 15; 4; 112; 800;

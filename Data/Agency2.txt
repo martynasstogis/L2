@@ -1,0 +1,5 @@
+Klaipėdos darbo birža
+Eimantas Gadeikis; Bibliotekininkas; 2; 10; 280; 1000;
+Vilius Vilniškis; Vairuotojas; 30; 7; 168; 800;
+Tautvydas Karinkas; Veterinaras; 15; 8; 160; 1150;
+Ramūnas Zortys; Ekonomistas; 20; 9; 180; 2000;
