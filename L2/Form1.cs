@@ -286,6 +286,18 @@ namespace L2
                 fr.WriteLine(text);
             }
         }
+
+        /// <summary>
+        /// isveda teksta
+        /// </summary>
+        static void TestMetodas(string fn, string text)
+        {
+            using (var fr = new StreamWriter(File.Open(fn, FileMode.Append),
+                                             Encoding.UTF8))
+            {
+                fr.WriteLine("hello");
+            }
+        }
         /// <summary>
         /// finds which agency contains more applicable employees
         /// </summary>
