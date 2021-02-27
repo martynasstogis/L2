@@ -132,5 +132,10 @@ namespace L2
         {
 
         }
+
+        public void Pull()
+        {
+
+        }
     }
 }
