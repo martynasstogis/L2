@@ -127,5 +127,10 @@ namespace L2
             else
                 return 0;
         }
+
+        public void PullTestas()
+        {
+
+        }
     }
 }
